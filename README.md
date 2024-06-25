@@ -4,9 +4,9 @@ Welcome to the **Job Portal Application** – your one-stop platform for discove
 
 ## 📚 Table of Contents
 
-1. [Features]
-2. [Technologies Used]
-3. [Usage]
+1. Features
+2. Technologies Used
+3. Usage
 
 ## 🌟 Features
 
