@@ -4,9 +4,9 @@ Welcome to the **Job Portal Application** – your one-stop platform for discove
 
 ## 📚 Table of Contents
 
-1. [Features](#features)
-2. [Technologies Used](#technologies-used)
-3. [Usage](#usage)
+1. [Features]
+2. [Technologies Used]
+3. [Usage]
 
 ## 🌟 Features
 
@@ -32,6 +32,6 @@ Ensure you have the following installed on your system:
 
 ### 📝 Usage
 
--**🔎 Search for Jobs**: Use the search bar to filter jobs by title, type, location, and experience level.
--**📜 View Job Details**: Click on a job listing to view detailed information and apply directly via the provided link.
--**🚫 Clear Filters**: Reset the filters to view all available job listings.
+- **🔎 Search for Jobs**: Use the search bar to filter jobs by title, type, location, and experience level.
+- **📜 View Job Details**: Click on a job listing to view detailed information and apply directly via the provided link.
+- **🚫 Clear Filters**: Reset the filters to view all available job listings.
